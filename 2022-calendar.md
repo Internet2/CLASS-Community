@@ -1,4 +1,12 @@
-**CLASS CoP Events for 2022 (Subject to Change)**
+<h1>CLASS Community of Practice Events for 2022 (Subject to Change)</h1>
+
+<h2> Office Hours/Vendor Discussions </h2>
+
+** Bi-Weekly office hours (Starts 4/14): 60 mins, every other Thursday 12pm PT/3pm ET **
+
+<h2> Talks/Deep Dives/Sprints </h2>
+
+** Every third Wednesday of the month **
 
 | Date | Topic | Type | Presenter |
 | ---| --- | --- | --- |
