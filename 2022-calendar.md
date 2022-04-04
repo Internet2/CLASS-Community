@@ -10,7 +10,7 @@
 
 | Date | Topic | Type | Presenter |
 | ---| --- | --- | --- |
-| 4/20/22 | [Fundamentals of Life Science Tools on Google Cloud](https://github.com/Internet2/CLASS-Community/blob/main/2022-calendar.md ) |  Hands-on sprint ( 8 hours) | Rui Costa / GCP |
+| 4/20/22 | [Fundamentals of Life Science Tools on Google Cloud](https://events.withgoogle.com/fundamentals-of-life-science-tools-in-google-cloud-april/) |  Hands-on sprint ( 8 hours) | Rui Costa / GCP |
 | 5/18/22 | Making the most of Azure Spot instances | Talk (60 mins) | Jerry Morey / Azure |
 | 6/15/22 | AWS Hybrid/Cloud Bursting | Talk (60 mins) | Scott Friedman / AWS  |
 | 7/20/22 | Managed Jupyterhubs| Talk/Deep Dive (60 mins) | TBD |
