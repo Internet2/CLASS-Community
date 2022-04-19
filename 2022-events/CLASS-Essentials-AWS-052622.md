@@ -20,7 +20,7 @@ This course is targeted to beginners to cloud computing looking to facilitate or
 
 **Date: May 26, 2022**
 
-**Time: 9-2 PT, 10-3 MT, 11-4 CT, noon-5 ET**
+**Time: 9am - 1pm PT / 12pm - 4pm ET**
 
 ## Pricing Information and Deadlines**
 
