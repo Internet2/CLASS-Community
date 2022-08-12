@@ -4,6 +4,7 @@
 
 | Date | Topic | Type | Presenter |
 | ---| --- | --- | --- |
+| 8/15/22 | Call for Applications Open: Azure Accelerator for Research 
 | 9/12/22 | FAIR Supercomputing using Azure CycleCloud | Sprint (6 hours) | Azure |
 | 10/19/22 | AWS Open Data Pipeline | Sprint (6 hours) | AWS |
 | 11/21/22 | TBD | Talk (60 mins) | CLASS Community |
