@@ -17,6 +17,6 @@
 | 5/18/22 | Making the most of Azure Spot instances | Talk (60 mins) | Jerry Morey / Azure |
 | 5/26/22 | [CLASS Essentials for Amazon Web Services (AWS)](./2022-events/CLASS-Essentials-AWS-052622.md) | Training (4 hours) | Amanda Tan / Internet2 |
 | 6/15/22 | AWS Hybrid/Cloud Bursting | Talk (60 mins) | Scott Friedman / AWS  |
-|
+
 
 
