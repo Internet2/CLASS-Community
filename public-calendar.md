@@ -4,7 +4,7 @@
 
 | Date | Topic | Type | Presenter |
 | ---| --- | --- | --- |
-| 9/22 - 11/22 | AWS Solutions Architect Associate	| Certification Prep (9 weeks)| Sharif Nijim
+| 9/22 - 11/22 | [AWS Solutions Architect Associate](https://docs.google.com/forms/d/e/1FAIpQLSeJ9qIx6T30Jmy31Vi6ZyydgvHPI0sqOGaHFDHGqV9qGD_gBg/viewform)	| Certification Prep (9 weeks)| Sharif Nijim
 | 8/15/22 | [Call for Applications Open: Azure Accelerator for Research](https://internet2.edu/advance-your-transition-to-the-cloud-with-the-azure-accelerator-program-for-research/) 
 | 9/12/22 | FAIR Supercomputing using Azure CycleCloud | Sprint (6 hours) | Azure |
 | 10/19/22 | AWS Open Data Pipeline | Sprint (6 hours) | AWS |
