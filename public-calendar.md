@@ -6,9 +6,9 @@
 | ---| --- | --- | --- |
 | 9/22 - 11/22 | [AWS Solutions Architect Associate](https://docs.google.com/forms/d/e/1FAIpQLSeJ9qIx6T30Jmy31Vi6ZyydgvHPI0sqOGaHFDHGqV9qGD_gBg/viewform)	| Certification Prep (9 weeks)| Sharif Nijim
 | 10/19/22 | AWS Open Data Pipeline | Sprint (6 hours) | AWS |
-| 10/25/22 | [CLASS Essentials for Google Cloud Platform](https://internet2.edu/class-essentials-for-google-cloud-platform/) | Essentials Class | TBA |
-| 11/1/22 | [CLASS Essentials for Amazon Web Services](https://internet2.edu/class-essentials-for-amazon-web-services/) | Essentials Class | TBA |
-| 11/8/22 | [CLASS Essentials for Microsoft Azure](https://internet2.edu/class-essentials-for-microsoft-azure/) | Essentials Class | TBA |
+| 10/25/22 | [CLASS Essentials for Google Cloud Platform](https://internet2.edu/class-essentials-for-google-cloud-platform/) | Essentials Class | Timothy Middelkoop |
+| 11/1/22 | [CLASS Essentials for Amazon Web Services](https://internet2.edu/class-essentials-for-amazon-web-services/) | Essentials Class | Amanda Tan |
+| 11/8/22 | [CLASS Essentials for Microsoft Azure](https://internet2.edu/class-essentials-for-microsoft-azure/) | Essentials Class | Naomi Alterman |
 | 11/21/22 | TBD | Talk (60 mins) | CLASS Community |
 
 Don't see what you're looking for? Email us at class@internet2.edu.
